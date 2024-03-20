@@ -2,6 +2,7 @@
 import hashlib
 import io
 import itertools
+import sys
 import operator
 import re
 import shutil
